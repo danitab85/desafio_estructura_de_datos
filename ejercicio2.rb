@@ -75,6 +75,17 @@ a.times do |i|
 end
 
 #Ejercicio 2.8
+a = ''
+
+10.times do |i|
+ if
+    (i+1).even?
+    a+= "#{i+1}par "
+ else
+    a+= "#{i+1}impar "
+ end
+end
+puts a
 
 #Ejercicio 2.9
 col = 3
