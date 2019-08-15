@@ -75,6 +75,7 @@ a.times do |i|
 end
 
 #Ejercicio 2.8
+
 a = ''
 
 10.times do |i|
